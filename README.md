@@ -25,8 +25,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/d3a1f5fc3d484264fcc830859e889775f093e308ed138a09745d1f008e6bca57/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/d3a1f5fc3d484264fcc830859e889775f093e308ed138a09745d1f008e6bca57/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" style="display: block; opacity: 1;">
+        
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="400" height="252"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coding" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
