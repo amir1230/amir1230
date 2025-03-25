@@ -30,7 +30,7 @@
   <li>🏢 I’m currently working at <strong>Meds IT Nexus</strong></li>
   <li>🚀 I’m currently enhancing my skills with <strong>Node.js, Docker, and AWS</strong></li>
   <li>💡 Feel free to ask me about <strong>MERN Stack Development, API Integrations, and Frontend Frameworks</strong></li>
-  <li>📧 How to reach me: <strong>mzeeshi187@gmail.com</strong></li>
+  <li>📧 How to reach me: <strong>info@alphahiveai.com</strong></li>
   <li>✨ Fun fact: I love pushing the boundaries of web technologies and exploring innovative solutions!</li>
 </ul>
 
